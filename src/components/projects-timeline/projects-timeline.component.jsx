@@ -131,23 +131,23 @@ return(
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
                 <UrlButton
-                  href="https://akjha96.github.io/Todo-List-React/"
+                  href="https://www.vastuyogarchitects.com/"
                   target="_blank"
                 >
                   SEE LIVE
                 </UrlButton>
-                <UrlButton
+                {/* <UrlButton
                   href="https://github.com/akjha96/Todo-List-React"
                   target="_blank"
                 >
                   SOURCE CODE
-                </UrlButton>
-                <UrlButton
+                </UrlButton> */}
+                {/* <UrlButton
                   href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-materialui-fun-activity-6716765686963826688-GIpZ"
                   target="_blank"
                 >
                   WATCH VIDEO
-                </UrlButton>
+                </UrlButton> */}
               </div>
             </div>
           </ImageEvent>
@@ -247,18 +247,18 @@ return(
                 </Accordion>
               </div>
               <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton
+                {/* <UrlButton
                   href="https://github.com/akjha96/MernTipCaculator-FrontEnd"
                   target="_blank"
                 >
                   SOURCE CODE
-                </UrlButton>
-                <UrlButton
+                </UrlButton> */}
+                {/* <UrlButton
                   href="https://www.linkedin.com/posts/anand-kumar-jha-745798a4_react-nodejs-expressjs-activity-6712281977107603456-oH6t"
                   target="_blank"
                 >
                   WATCH VIDEO
-                </UrlButton>
+                </UrlButton> */}
               </div>
             </div>
           </ImageEvent>
